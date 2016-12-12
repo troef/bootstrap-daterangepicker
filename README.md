@@ -1,8 +1,20 @@
-# Date Range Picker for Bootstrap
+# Google Analytics like datepicker for Bootstrap
 
-![Improvely.com](http://i.imgur.com/LbAMf3D.png)
+This fork aims to build a Google Analytics like datepicker. This means we are adding a feature to select a 'comparing daterange'. This is a work in progress, feel free to add pull requests.
 
-**This fork aims to make a Google Analytics alike datepicker. ... WIP**
+* Based on https://github.com/dangrossman/bootstrap-daterangepicker
+* Added features:
+    * Compare the selected date range with the previous period or the same periode last year. The resulting dateranges are available through the API using .startDate, .endDate, .compareStartDate and . compareEndDate
+    * Google Analytics alike look and feel
+* Work in progress
+    * Select a comparing daterange on the calendar
+    * Figure out what to do with features from the original like single datepicker, time picking
+    * Sass
+
+[[http://imgur.com/a/xH8yf|alt=Google Analytics like datepicker]]
+
+
+# Original README
 
 This date range picker component for Bootstrap creates a dropdown menu from which a user can
 select a range of dates. I created it while building the UI for [Improvely](http://www.improvely.com), 
