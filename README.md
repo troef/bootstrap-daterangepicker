@@ -11,8 +11,7 @@ This fork aims to build a Google Analytics like datepicker. This means we are ad
     * Figure out what to do with features from the original like single datepicker, time picking
     * Sass
 
-[[http://imgur.com/a/xH8yf|alt=Google Analytics like datepicker]]
-
+![Google Analytics like datepicker](http://imgur.com/a/xH8yf)
 
 # Original README
 
